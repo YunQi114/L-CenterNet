@@ -1,1 +1,3 @@
-# L-CenterNet
+L-CENTERNET: A LOCALIZATION-BASED APPROACH 
+FOR AERIAL TINY OBJECT DETECTION
+=========================================
