@@ -27,11 +27,11 @@ Train
 
 - Training on a single GPU
   
-python train.py configs/yolc.py
+python train.py configs/L-CenterNet.py
 
 - Training on multiple GPUs
 
-./dist_train.sh configs/yolc.py <your_gpu_num>
+./dist_train.sh configs/L-CenterNet.py <your_gpu_num>
 
 Eval
 ==========
